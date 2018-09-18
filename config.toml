@@ -7,7 +7,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
-publishDir = "../.GENERATED/"
+publishDir = ".GENERATED/"
 
 # Title of your site
 title = "Carlisle Rainey"
