@@ -5,36 +5,37 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 2
 
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Political Participation",
+    "Computational Methods",
+    "Data and Model Visualization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Political Science"
+  institution = "Florida State University"
+  year = 2013
+
+[[education.courses]]
+  course = "MS in Statistics"
+  institution = "Florida State University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MS in Political Science"
+  institution = "Florida State University"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Associate Professor in the Department of Political Science at [Florida State University](https://coss.fsu.edu/polisci/). I was previously an Assistant Professor in the Department of Political Science at the [University at Buffalo, SUNY](http://polsci.buffalo.edu), and the Department of Political Science at [Texas A&M University](https://pols.tamu.edu).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research has appeared in the *American Political Science Review*, the *American Journal of Political Science*, *Political Analysis*, and other peer-reviewed journals. I teach undergraduate courses in American politics, comparative politics, and political methodology and graduate courses in quantitative methods.
+ 

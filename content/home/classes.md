@@ -1,19 +1,19 @@
 +++
-# Projects widget.
+# Classes widget.
 widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Active Projects"
+title = "Classes"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 4
+weight = 10
 
 # Content.
 # Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+# For example, `folder = "class"` displays content from `content/class/`.
+folder = "class"
 
 # View.
 # Customize how projects are displayed.
