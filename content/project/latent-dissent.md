@@ -9,7 +9,7 @@ title = "A Measure of Dissent"
 summary = "Creates a standardized measure of political dissent."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "1953-iranian-coup.jpg"
+image_preview = "preview-latent-dissent.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
